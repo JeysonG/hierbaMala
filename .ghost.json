@@ -1,11 +1,11 @@
 {
   "development": {
-    "siteUrl": "https://hierbamala.cyou",
+    "apiUrl": "https://hierbamala.cyou",
     "contentApiKey": "164f90a98d607264a4f10dcc9c",
     "version": "v4"
   },
   "production": {
-    "siteUrl": "https://hierbamala.cyou",
+    "apiUrl": "https://hierbamala.cyou",
     "contentApiKey": "164f90a98d607264a4f10dcc9c",
     "version": "v4"
   }
